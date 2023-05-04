@@ -1,6 +1,6 @@
 %They are plane curves defined by rational parametrization.
 %Every system contains two curves and the coefficients are as follows.     
-%The system1 is { r1=(-1/(5s^2+1), (5s^2+4s)/(5s^2+1)), r2=(-1/(5t^2+1), (5t^2-2t+1)/(5t^2+1)) }
+%The system1 is { r1(s)=(-1/(5s^2+1), (5s^2+4s)/(5s^2+1)), r2(t)=(-1/(5t^2+1), (5t^2-2t+1)/(5t^2+1)) }
 
 %system1  
 A1=[-1];
